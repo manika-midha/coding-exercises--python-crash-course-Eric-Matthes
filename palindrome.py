@@ -1,5 +1,8 @@
+#takes words from a text file and returns only those words that are palindromes.
 
 def palindrome(list_words):
+    '''returns the palindrome of a word to a list '''
+
     for word in list_words:
         reverse_word = word.lower()[::-1]
         if len(word)>1 and word.lower() == reverse_word :
@@ -13,3 +16,6 @@ for line in open('anagram.txt','r'):
 
 palindrome(list_words)
 print(sorted(final_list))
+
+
+
