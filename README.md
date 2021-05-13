@@ -1,5 +1,5 @@
 # myfirstrepo
-**palindrome.py** - Given a list of words, the code returns words from the list that are palindromes.\ n
+**palindrome.py** - this code returns words from a given list that are palindromes.\n
 **anagram.txt** - this data file is used with the file palindrome.py\n
 **leet-twosum.py** - this code returns the index of two numbers (from a list) whose sum equals the given target number.\n
 **leetcode-reverse_integer.py** - this code retruns the reverse of an 32 bit integer.\n
