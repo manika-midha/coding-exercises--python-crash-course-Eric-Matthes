@@ -8,3 +8,5 @@
 **hn_submissoin.py** - this code generates top 30 articles on the home page of hacker news.\n
 **Pandas_solution_olympics.ipynb** - this juptyer notebook file takes data from olympics.csv and som.csv and performs different analysis. The questions and code answers are mentioned.\n
 **olympics.csv and som.csv** - these files have the data set used in file Pandas_solution_olympics.ipynb.\n
+**list_of_func.py** - this file shows how different functions can be used inside a list.\n
+**use_of_maps_filters_reduce_list-comprehension.py** - this file explains with an example the use of functions - map, filter,reduce and list comprehension.\n
