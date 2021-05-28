@@ -16,11 +16,13 @@ Technology used - Python.
 
 **python_repos_visual.py** - This code generates a bar chart of most starred python projects on GitHub.Technology used - Python. 
 
-**hn_submissoin.py** - This code generates top 30 articles on the home page of hacker news. Technology used - Python.
+**hn_submissoin.py** - This code generates top 30 articles on the home page of hacker news. 
+Technology used - Python.
 
-**Pandas_solution_olympics.ipynb** - This **juptyer notebook** file takes data from olympics.csv and som.csv and performs different analysis. The questions and code answers are mentioned.
+**Pandas_solution_olympics.ipynb** - This file takes data from olympics.csv and som.csv and performs different analysis. The questions and code answers are mentioned.
+Technology used - Juptyer notebook and Python.
 
-**olympics.csv and som.csv** - These files have the data set used in file **Pandas_solution_olympics**.ipynb.
+**olympics.csv and som.csv** - These files have the data set used in file **Pandas_solution_olympics.ipynb**.
 
 **list_of_func.py** - This file shows how different functions can be used inside a list. 
 Technology used - Python.
