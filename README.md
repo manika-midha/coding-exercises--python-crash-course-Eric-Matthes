@@ -1,4 +1,4 @@
-# Below is a list of all the coding exercises I have undertaken. 
+# Below is a list of all major coding exercises I have undertaken. 
 ## Order of display :
 ### File name : Project Description. Technology used. Modules 
 ### used with respective functions. Source of the code
@@ -73,5 +73,14 @@
 
 #### ->partial_application.py : This file explains with example the concept of **partial application** and **currying**. This also shows how functions are called within functions and that functions can be returned.
 **Technology used** - Python3.
-**Modules(functions) used** : functools (wraps)
+**Modules(functions) used** : functools(wraps)
 **Source** - Linkedin Learning course, Functional Programming with Python by Shaun Wassell
+
+#### -> custom_errors.py : This file shows how to create custom Exceptions and handle them.
+**Technology used** - Python3.
+**Source** - Linkedin Learning course, Programming Foundations: Real-World Examples by Barron Stone
+
+#### -> event_driven_programming.py : This files shows the concept of event driven programming based on real world example of ordering a pizza and waiting for its delivery.
+**Technology used** - Python3.
+**Modules(functions) used** : time(sleep),tkinter(Tk,Button)
+**Source** - Linkedin Learning course, Programming Foundations: Real-World Examples by Barron Stone
